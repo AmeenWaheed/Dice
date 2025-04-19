@@ -1,0 +1,15 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "amin",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^35.2.0"
+  }
+}
