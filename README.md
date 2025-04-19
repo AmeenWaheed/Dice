@@ -1,6 +1,6 @@
-# 🎲 Dice Game Desktop App
+# 🎲 Dice Game
 
-**Dice Game** is a fun two-player dice game built with **HTML**, **CSS**, **JavaScript**, and packed as a desktop app using **Electron.js**. Roll the dice, test your luck, and see who wins!
+**Dice Game** is a fun two-player dice game built with **HTML**, **CSS**, **JavaScript**. Roll the dice, test your luck, and see who wins!
 
 ---
 
