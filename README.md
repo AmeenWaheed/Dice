@@ -24,6 +24,7 @@
 ---
 
 ## 📦 How to Run Locally
+.. direct link: https://ameenwaheed.github.io/Dice/
 
 1. **Clone the repo:**
    ```bash
