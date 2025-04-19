@@ -25,6 +25,8 @@
 
 ## 📦 How to Run Locally
 .. direct link: https://ameenwaheed.github.io/Dice/
+## Download from here👇
+   https://github.com/AmeenWaheed/Dice/releases/tag/v1.0.0
 
 1. **Clone the repo:**
    ```bash
